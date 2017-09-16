@@ -49,24 +49,6 @@ pluralizelisttitles = false
     weight = 500
 
 [[menu.main]]
-	  parent = "Contribute"
-		url    = "/contribute/libraries/"
-		name   = "Libraries"
-		weight = 600
-
-[[menu.main]]
-		parent = "Contribute"
-		url    = "/contribute/developers/"
-		name   = "Developers"
-		weight = 500
-
-[[menu.main]]
-		parent = "Contribute"
-		url    = "/contribute/docs-team/"
-		name   = "Docs Team"
-		weight = 400
-
-[[menu.main]]
     name   = "Community"
     weight = 10
 
